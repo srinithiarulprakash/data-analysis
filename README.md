@@ -1,9 +1,6 @@
 # data-analysis
 Analyzing e-commerce sales performance and customer value tiers using Pandas, RFM modeling, and Power BI dashboards.
 
-# data-analysis
-Analyzing e-commerce sales performance and customer value tiers using Pandas, RFM modeling, and Power BI dashboards.
-Retail Sales Performance & RFM Customer Segmentation Dashboard
 
 An end-to-end data analytics project analyzing e-commerce retail transactions to uncover revenue trends, top-selling product categories, and high-value customer segments using Python and Power BI.
 
